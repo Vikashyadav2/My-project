@@ -7,3 +7,7 @@ class Employee:
 
 emp=Employee()
 emp.disp()
+
+
+
+
